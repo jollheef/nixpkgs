@@ -5544,6 +5544,8 @@ in {
 
   pylibmc = callPackage ../development/python-modules/pylibmc { };
 
+  pylink-square = callPackage ../development/python-modules/pylink-square { };
+
   pylint-celery = callPackage ../development/python-modules/pylint-celery { };
 
   pylint-django = callPackage ../development/python-modules/pylint-django { };
